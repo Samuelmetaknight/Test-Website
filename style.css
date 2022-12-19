@@ -199,7 +199,9 @@ scroll-behavior: smooth;}
 .hero__heading {
      font-size: 100px;
      margin-bottom: 24px;
-     color: #fff;
+     background: #833ab4;
+     background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+     background: linear-gradient(-225deg, #231888 0%, #441111 29%, #ff1345 68%, #fff800 100%);
 }
 .hero__heading span { background: #833ab4;
      background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
